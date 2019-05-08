@@ -722,7 +722,7 @@ $(document).ready(function() {
     $("#divWarning").html("Loading...");
     
     // Init data model
-    initGlobals(3,3,3);
+    initGlobals(8,8,8);
     
     // Create the generate dialog, and make modal
     $("#dlgGenerateCode").dialog({ 
